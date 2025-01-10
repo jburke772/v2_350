@@ -5,7 +5,7 @@
             "material": "ABS",
             "color": "#0F7C14",
             "weight": "900",
-            "runout_lane": "NONE",
+            "runout_lane": "leg4",
             "map": "T0",
             "index": 1,
             "tool_loaded": false,
