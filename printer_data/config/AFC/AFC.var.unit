@@ -39,8 +39,8 @@
         "leg4": {
             "spool_id": "",
             "material": "ABS",
-            "color": "#FF0000",
-            "weight": "900",
+            "color": "#00FF13",
+            "weight": "190",
             "runout_lane": "NONE",
             "map": "T3",
             "index": 4,
