@@ -41,7 +41,7 @@
             "material": "ABS",
             "color": "#00FF13",
             "weight": "190",
-            "runout_lane": "NONE",
+            "runout_lane": "leg1",
             "map": "T3",
             "index": 4,
             "tool_loaded": false,
